@@ -13,17 +13,9 @@ O algoritmo deveriam cumprir alguns requisitos, como por exemplo:
 
 2. Calcular o consumo de energia elétrica (em R$) por setor1, para quantos setores desejar;
 
- 3. Considerar os seguintes tipos de aparelhos elétrico-eletrônicos para cada setor solicitado:
+3. Considerar os seguintes tipos de aparelhos elétrico-eletrônicos para cada setor solicitado:
  
-a. Ar-condicionado
- 
-b. Computador
-  
-c. Geladeira
- 
-d. Lâmpada
-
-e. Televisor
+a. Ar-condicionado/b. Computador/c. Geladeira/d. Lâmpada/e. Televisor
 
 4. Para cada aparelho elétrico-eletrônico, considerar a potência (em Watts), a quantidade de aparelhos, a quantidade de horas de uso por dia, e a quantidade de dias de uso no mês;
 
