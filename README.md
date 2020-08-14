@@ -1,5 +1,7 @@
 # Segue-o-seco
 Código do primeiro problema PBL da matéria de MI- Algoritmos.
+
+
 Foi solicitado o desenvolvimento de um algoritmo que simulasse o consumo de energia da Universidade Estadual de Feira de Santana (UEFS).
 O algoritmo deveria ser feito na linguagem de programação python e, como se trata do primeiro problema do primeiro semestre, só poderiam ser utilizados conceitos básicos de programação (funções,classes, ou qualquer tipo de biblioteca não foram permitidas).
 O algoritmo deveriam cumprir alguns requisitos, como por exemplo:
