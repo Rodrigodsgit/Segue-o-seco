@@ -13,23 +13,14 @@ O algoritmo deveriam cumprir alguns requisitos, como por exemplo:
 
 2. Calcular o consumo de energia elétrica (em R$) por setor1, para quantos setores desejar;
 
-3. Considerar os seguintes tipos de aparelhos elétrico-eletrônicos para cada setor solicitado:
- 
-a. Ar-condicionado/b. Computador/c. Geladeira/d. Lâmpada/e. Televisor
+3. Considerar os seguintes tipos de aparelhos elétrico-eletrônicos para cada setor solicitado: a. Ar-condicionado/b. Computador/c. Geladeira/d. Lâmpada/e. Televisor
 
 4. Para cada aparelho elétrico-eletrônico, considerar a potência (em Watts), a quantidade de aparelhos, a quantidade de horas de uso por dia, e a quantidade de dias de uso no mês;
 
 5. Calcular o consumo, em kWh por mês, para cada aparelho do setor, conforme a equação:
-Consumo = ((QHD * QDM) * P) * QA
-Onde:
+Consumo = ((QHD * QDM) * P) * QA 
 
-QHD é a quantidade de horas de uso por dia;
-
-QDM é a quantidade de dias de uso no mês;
-
-P é a potência do aparelho;
-
-QA é a quantidade de aparelhos daquele tipo
+Onde: QHD é a quantidade de horas de uso por dia; QDM é a quantidade de dias de uso no mês; P é a potência do aparelho; QA é a quantidade de aparelhos daquele tipo
 
 6. Calcular o valor (em R$) de gasto de cada aparelho do setor, considerando a Tarifa Residencial de Baixa Tensão;
 
