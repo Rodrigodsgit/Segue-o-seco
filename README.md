@@ -48,3 +48,4 @@ QA é a quantidade de aparelhos daquele tipo
 9. Quando o usuário decidir finalizar os cálculos dos setores individuais, o simulador deve apresentar o consumo total em kWh e o valor total em R$, considerando todos os setores avaliados.
 
 10. Por fim, o simulador deve exibir o valor (em R$) da conta de energia elétrica que a UEFS pagará (com base nos setores avaliados), incluídos o ICMS (27%), o PIS (1,65%), e o COFINS (7,61%).
+
