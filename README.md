@@ -10,6 +10,7 @@ O algoritmo deveria ser feito na linguagem de programação python e, como se tr
 O algoritmo deveriam cumprir alguns requisitos, como por exemplo:
 
 1.Ler o valor da Tarifa Residencial de Baixa Tensão cobrado pela concessionária considerada. Este valor está especificado na fatura de energia elétrica;
+
 2. Calcular o consumo de energia elétrica (em R$) por setor1, para quantos setores desejar;
 
  3. Considerar os seguintes tipos de aparelhos elétrico-eletrônicos para cada setor solicitado:
