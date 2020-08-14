@@ -28,3 +28,13 @@ Onde:
 QHD é a quantidade de horas de uso por dia;/
 QDM é a quantidade de dias de uso no mês;/
 P é a potência do aparelho;/
+
+6. Calcular o valor (em R$) de gasto de cada aparelho do setor, considerando a Tarifa Residencial de Baixa Tensão;
+
+7. Calcular o consumo de cada setor (em kWh);
+
+8. Calcular o valor (em R$) de gasto de cada setor;
+
+9. Quando o usuário decidir finalizar os cálculos dos setores individuais, o simulador deve apresentar o consumo total em kWh e o valor total em R$, considerando todos os setores avaliados.
+
+10. Por fim, o simulador deve exibir o valor (em R$) da conta de energia elétrica que a UEFS pagará (com base nos setores avaliados), incluídos o ICMS (27%), o PIS (1,65%), e o COFINS (7,61%).
